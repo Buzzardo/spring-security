@@ -5,6 +5,8 @@ Ben Alex; Luke Taylor; Rob Winch; Gunnar Hillert; Joe Grandja; Jay Bryant
 :source-indent: 0
 :tabsize: 4
 
+[.small]#Spring Trail: This topic is on the file://c:/spring/demo/trails/trails.html#trails-beginner[Beginner] trail. file://c:/spring/demo/boot/htmlsingle/index.html#getting-started[Previous topic]#
+
 // FIXME: Add links for authentication, authorization, common attacks
 Spring Security is a framework that provides authentication, authorization, and protection against common attacks.
 // FIXME: Add links for imperative and reactive applications
